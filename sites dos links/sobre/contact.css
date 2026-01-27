@@ -1,0 +1,13 @@
+.contato {
+  text-align: center;
+  color: white;
+}
+
+.contato h2 {
+  margin-bottom: 20px;
+}
+
+.contato p {
+  margin: 10px 0;
+  font-size: 1.1em;
+}
